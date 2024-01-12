@@ -17,4 +17,4 @@ This project is a clone of the Amazon web page created using only HTML and CSS. 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AmazonCloneHTMLCSS.git
+git clone https://github.com/RoshanMuhammedR/AmazonCloneHTMLCSS.git
